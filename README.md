@@ -4,10 +4,9 @@ VI Snippet (\*.png) Image Import Library for LabVIEW
 Import a VI Snippet (\*.png) image programmatically using pure LabVIEW code (No external dlls or dependencies).
 
 NI has yet to include a [VI Snippet](http://www.ni.com/tutorial/9330/en/) API for LabVIEW so I created my own. 
-This library imports VI Snippet PNG images using the clipboard and pastes
-the code to the specified VI's block diagram (or creates a new VI if Not a Refnum).
+This library imports VI Snippet PNG images using VI Scripting to paste the code into an existing or new VI.
 
-This library was tested with LabVIEW 2019.
+This library was built and tested with LabVIEW 2019.
 
 ## Gettings Started
 Open the **Import VI Snippet Example.vi**, enter the **VI Snippet Path (\*.png)** and run
