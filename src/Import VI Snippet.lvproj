@@ -14,6 +14,7 @@
 		<Item Name="examples" Type="Folder" URL="../examples">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Import VI Snippet Example.vi" Type="VI" URL="../Import VI Snippet Example.vi"/>
 		<Item Name="Import VI Snippet read PNG.vi" Type="VI" URL="../Import VI Snippet read PNG.vi"/>
 		<Item Name="Import VI Snippet to Clipboard.vi" Type="VI" URL="../Import VI Snippet to Clipboard.vi"/>
 		<Item Name="Import VI Snippet.vi" Type="VI" URL="../Import VI Snippet.vi"/>
@@ -48,7 +49,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D84DB498-C12E-462B-999D-AF6852E20F0E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9A6821D3-48E7-4978-BB74-56028892B5FB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Import VI Snippet read PNG.vi</Property>
@@ -62,7 +63,12 @@
 				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Import VI Snippet.vi</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Import VI Snippet Example.vi</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[4].type" Type="Str">VI</Property>
+				<Property Name="Source[4].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="SourceCount" Type="Int">5</Property>
 			</Item>
 		</Item>
 	</Item>
