@@ -43,6 +43,15 @@ GObjects to the clipboard in the context of the block diagram.
 This is a workarround due to the inconsistent nature of the
 "Place object on cursor" IDE method.*
 
+ VI Snippet PNG Chunks:
+| Type | Description |
+| --- | --- |
+| `IHDR` | PNG header information |
+| `IDAT` | PNG image data |
+| **`niVI`** | **LabVIEW VI code** << this is the secret sauce<br>E.g. `RSRC...VI_NAME.vi` |
+| **`tEXt`** | **LabVIEW VI Snippet help text**<br>E.g. "National Instruments Software This image contains an embedded VI File. For more details visit ni.com/info and enter 'ex6a7h'" |
+| `IEND` | PNG end of file |
+
 ## Build Specifications
 To rebuilt the llb, open the **src/Import VI Snippet.lvproj**, right-click 
 the **import_vi_snippet_source** and select **Build**.
