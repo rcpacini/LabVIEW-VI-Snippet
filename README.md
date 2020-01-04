@@ -21,6 +21,9 @@ Into a new VI:
 
 ![Basic VI Snippet Example](docs/BasicVISnippet.png)
 
+## Examples
+More VI Snippet (\*.png) examples can be found in the **src/Import VI Snippet.lvproj** LabVIEW project.
+
 ## Under the Hood
 VI Snippets (\*.png) are no more than PNG files with a custom chunk 
 type called "niVI" which contains the binary VI itself. 
