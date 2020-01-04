@@ -8,21 +8,21 @@ the code to the specified VI's block diagram (or creates a new VI if Not a Refnu
 This library was tested with LabVIEW 2019.
 
 ## Gettings Started
-Open the **Import VI Snippet.vi**, select the **VI Snippet Path (\*.png)** and run
+Open the **Import VI Snippet Example.vi**, enter the **VI Snippet Path (\*.png)** and run
 the VI to import the VI Snippet to a new VI.
 
 ![Import VI Snippet](docs/ImportVISnippet.png)
 
-Pastes this:
+Pastes this VI Snippet ("*..\basic.png*"):
 
 ![Basic VI Snippet](src/examples/basic.png)
 
-Into a new VI:
+Programmatically into an existing or new VI:
 
 ![Basic VI Snippet Example](docs/BasicVISnippet.png)
 
 ## Examples
-More VI Snippet (\*.png) examples can be found in the **src/Import VI Snippet.lvproj** LabVIEW project.
+More VI Snippet (\*.png) examples can be found in the **src/examples** folder.
 
 ## Under the Hood
 VI Snippets (\*.png) are no more than PNG files with a custom chunk 
