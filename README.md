@@ -1,5 +1,5 @@
 # labview_snippet
-VI Snippet png image import library for LabVIEW
+VI Snippet (\*.png) Image Import Library for LabVIEW
 
 NI has yet to include a VI Snippet API for LabVIEW so I created my own. 
 This library imports VI Snippet PNG images using the clipboard and pastes
