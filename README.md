@@ -1,7 +1,7 @@
 # labview_snippet
 VI Snippet (\*.png) Image Import Library for LabVIEW
 
-NI has yet to include a VI Snippet API for LabVIEW so I created my own. 
+NI has yet to include a [VI Snippet](http://www.ni.com/tutorial/9330/en/) API for LabVIEW so I created my own. 
 This library imports VI Snippet PNG images using the clipboard and pastes
 the code to the specified VI's block diagram (or creates a new VI if Not a Refnum).
 
