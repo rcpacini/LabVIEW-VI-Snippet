@@ -44,6 +44,7 @@ This is a workarround due to the inconsistent nature of the
 "Place object on cursor" IDE method.*
 
  VI Snippet PNG Chunks:
+
 | Type | Description |
 | --- | --- |
 | `IHDR` | PNG header information |
