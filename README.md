@@ -43,7 +43,7 @@ GObjects to the clipboard in the context of the block diagram.
 This is a workarround due to the inconsistent nature of the
 "Place object on cursor" IDE method.*
 
- VI Snippet PNG Chunks:
+ ### VI Snippet PNG Chunks
 
 | Type | Description |
 | --- | --- |
