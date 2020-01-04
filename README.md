@@ -9,7 +9,7 @@ This library imports VI Snippet PNG images using VI Scripting to paste the code 
 This library was built and tested with LabVIEW 2019.
 
 ## Gettings Started
-Open the **Import VI Snippet Example.vi**, enter the **VI Snippet Path (\*.png)** and run
+Open the **src/Import VI Snippet Example.vi**, enter the **VI Snippet Path (\*.png)** and run
 the VI to import the VI Snippet to a new VI.
 
 ![Import VI Snippet](docs/ImportVISnippet.png)
