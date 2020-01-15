@@ -40,6 +40,45 @@
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="VI Snippet API Library" Type="Packed Library">
+				<Property Name="Bld_buildCacheID" Type="Str">{4880F85E-03E4-42AD-8184-48D30CDC6C29}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">VI Snippet API Library</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../releases</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{28A754CB-3743-4648-9364-77C0903DA1EB}</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">VI Snippet.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">../releases/NI_AB_PROJECTNAME.lvlibp</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../releases</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
+				<Property Name="Source[0].itemID" Type="Str">{203295C9-F831-41A7-9C9B-D16B597BFCE7}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/VI Snippet.lvlib</Property>
+				<Property Name="Source[1].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[1].Library.atomicCopy" Type="Bool">true</Property>
+				<Property Name="Source[1].Library.LVLIBPtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[1].preventRename" Type="Bool">true</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">Library</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">Ryan Pacini</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Import and Export VI Snippets (*.png) programmatically.</Property>
+				<Property Name="TgtF_internalName" Type="Str">VI Snippet API Library</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2020 Ryan Pacini</Property>
+				<Property Name="TgtF_productName" Type="Str">VI Snippet API Library</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{E253BF61-7755-4970-91DC-9F755626C81F}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">VI Snippet.lvlibp</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
