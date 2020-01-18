@@ -60,7 +60,7 @@
 				<Property Name="Destination[1].path" Type="Path">../releases</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{3DB1914A-D06C-4F0A-A955-711D5D92EA26}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9E0B427B-37CE-4B50-BBE8-C2BC90A474B9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/VI Snippet.lvlib</Property>
