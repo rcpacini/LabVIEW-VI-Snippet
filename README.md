@@ -5,12 +5,11 @@ Import or export a VI Snippet (\*.png) image programmatically using pure
 LabVIEW code (No external dlls or dependencies).
 
 ## Releases
-This library is released as a Zip File (\*.zip) or Packed Library (\*.lvlibp).
+This library is released as a Packed Library (\*.lvlibp).
 
 | Release | Version |
 | --- | --- |
-| [VI Snippet.lvlibp](https://github.com/rcpacini/labview_snippet/raw/master/releases/VI%20Snippet.lvlibp) | 0.1.0 |
-| [VI Snippet Source.zip](https://github.com/rcpacini/labview_snippet/raw/master/releases/vi_snippet_src.zip) | 0.1.0 |
+| [VI Snippet.lvlibp](https://github.com/rcpacini/labview_snippet/raw/master/releases/VI%20Snippet.lvlibp) | 0.2.0 |
 
 ## What's a VI Snippet?
 [VI Snippets](http://www.ni.com/tutorial/9330/en/) are PNG image (\*.png)
