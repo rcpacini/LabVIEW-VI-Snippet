@@ -6,7 +6,7 @@ LabVIEW code (No external dlls or dependencies).
 
 ## Getting Started
 
-Refer to tht `/Examples/Example.vi` to Import or Export a VI Snippet image.
+Refer to the `/Examples/Example.vi` to Import or Export a VI Snippet image.
 
 ![VI-Snippet Example](/Demo.png)
 
@@ -25,7 +25,7 @@ Diagram to copy the code snippet into the LabVIEW environment.
 
 ![Basic VI Snippet](/Examples/Snippets/basic.png)
 
-Over 6 years have passed and NI has yet to include an
+Over 9 years have passed and NI has yet to include an
 [VI Snippet API](http://www.ni.com/tutorial/9330/en/)
 so I built one myself...
 
